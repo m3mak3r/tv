@@ -469,3 +469,13 @@ https://teleclubitalia.iostream.it/teleclubitalia.m3u8
 https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:0 group-title="-",Sport Channel 214
 https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
+#EXTINF:0 group-title="-",Rete Italia
+https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
+#EXTINF:0 group-title="-",TVA Campania
+https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
+#EXTINF:0 group-title="-",TVA Italia
+https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
+#EXTINF:0 group-title="-",Prima TV Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:0 group-title="-",Italia 9 Network
+https://live20.bozztv.com/akamaissh101/ssh101/italia9network/playlist.m3u8
