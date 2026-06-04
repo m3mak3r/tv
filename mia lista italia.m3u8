@@ -424,7 +424,7 @@ http://84.22.55.2:8032/play/s369
 #EXTINF:0 group-title="-",Sky Uno
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:0 group-title="-",Sky Sport 1
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
 #EXTINF:0 group-title="-",Sky Sport Golf
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
 #EXTINF:0 group-title="-",Sky Sport MotoGP
@@ -432,7 +432,7 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:0 group-title="-",Eurosport
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0 group-title="Music",MTV LIVE USA
-http://41.205.93.154/MTVUSA/mpegts
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -485,5 +485,3 @@ https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
 #EXTINF:0 group-title="-",Telemiracoli
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
-#EXTINF:0 group-title="-",_
-http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
