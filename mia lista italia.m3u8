@@ -401,25 +401,25 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="MDS",GF Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
-#EXTINF:0,Alto Adige TV
+#EXTINF:0 group-title="triveneto",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
-#EXTINF:0,Trentino TV
+#EXTINF:0 group-title="triveneto",Trentino TV
 http://84.22.55.2:8032/play/s361
-#EXTINF:0,RTTR
+#EXTINF:0 group-title="triveneto",RTTR
 http://84.22.55.2:8032/play/s362
-#EXTINF:0,Telepace Trento
+#EXTINF:0 group-title="triveneto",Telepace Trento
 http://84.22.55.2:8032/play/s363
-#EXTINF:0,7Gold Telepadova
+#EXTINF:0 group-title="triveneto",7Gold Telepadova
 http://84.22.55.2:8032/play/s364
-#EXTINF:0,Telenuovo
+#EXTINF:0 group-title="triveneto",Telenuovo
 http://84.22.55.2:8032/play/s365
-#EXTINF:0,A3 Veneto
+#EXTINF:0 group-title="triveneto",A3 Veneto
 http://84.22.55.2:8032/play/s366
-#EXTINF:0,Telechiara
+#EXTINF:0 group-title="triveneto",Telechiara
 http://84.22.55.2:8032/play/s367
-#EXTINF:0,TV33 TN
+#EXTINF:0 group-title="triveneto",TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,TV7 Triveneta
+#EXTINF:0 group-title="triveneto",TV7 Triveneta
 http://84.22.55.2:8032/play/s369
 #EXTINF:0 group-title="-",Sky Uno
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
@@ -441,47 +441,51 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="-",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
-#EXTINF:0 group-title="-",Canale Totò
+#EXTINF:0 group-title="Napoli",Canale Totò
 https://rst6.saiuzwebnetwork.it:3982/hybrid/play.m3u8
-#EXTINF:0 group-title="-",Napoletani nel mondo
+#EXTINF:0 group-title="Napoli",Napoletani nel mondo
 https://host2.hbbtv.me:28443/hls/napoletaninelmondo/index.m3u8
-#EXTINF:0 group-title="-",Info Cilento
+#EXTINF:0 group-title="Napoli",Info Cilento
 https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
-#EXTINF:0 group-title="-",Video Nola
+#EXTINF:0 group-title="Napoli",Video Nola
 https://videonola.aswifi.it/videonolaabr/live_hi/index.m3u8
-#EXTINF:0 group-title="-",Italia Felix
+#EXTINF:0 group-title="Napoli",Italia Felix
 https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
-#EXTINF:0 group-title="-",Itaca TV
+#EXTINF:0 group-title="Napoli",Itaca TV
 https://host2.hbbtv.me:28443/hls/itacatv/index.m3u8
-#EXTINF:0 group-title="-",Piana TV
+#EXTINF:0 group-title="Napoli",Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
-#EXTINF:0 group-title="-",Canale 8
+#EXTINF:0 group-title="Napoli",Canale 8
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
-#EXTINF:0 group-title="-",Capri Events
+#EXTINF:0 group-title="Napoli",Capri Events
 https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
-#EXTINF:0 group-title="-",Taurianova TV
+#EXTINF:0 group-title="Napoli",Taurianova TV
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
-#EXTINF:0 group-title="-",Teleluna
+#EXTINF:0 group-title="Napoli",Teleluna
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:0 group-title="-",Teleclub Italia
+#EXTINF:0 group-title="Napoli",Teleclub Italia
 https://teleclubitalia.iostream.it/teleclubitalia.m3u8
-#EXTINF:0 group-title="-",Partenope TV
+#EXTINF:0 group-title="Napoli",Partenope TV
 https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
-#EXTINF:0 group-title="-",Sport Channel 214
+#EXTINF:0 group-title="Napoli",Sport Channel 214
 https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
-#EXTINF:0 group-title="-",Rete Italia
+#EXTINF:0 group-title="Napoli",Rete Italia
 https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
-#EXTINF:0 group-title="-",TVA Campania
+#EXTINF:0 group-title="Napoli",TVA Campania
 https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
-#EXTINF:0 group-title="-",TVA Italia
+#EXTINF:0 group-title="Napoli",TVA Italia
 https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
-#EXTINF:0 group-title="-",Prima TV Napoli
+#EXTINF:0 group-title="Napoli",Prima TV Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
-#EXTINF:0 group-title="-",Italia 9 Network
+#EXTINF:0 group-title="Napoli",Italia 9 Network
 https://live20.bozztv.com/akamaissh101/ssh101/italia9network/playlist.m3u8
-#EXTINF:0 group-title="-",Yara TV
+#EXTINF:0 group-title="Napoli",Canale 21
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Canale 21 Extra
+https://streamcdng10-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Yara TV
 https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
-#EXTINF:0 group-title="-",Spaccanapoli
+#EXTINF:0 group-title="Napoli",Spaccanapoli
 https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
-#EXTINF:0 group-title="-",Telemiracoli
+#EXTINF:0 group-title="Napoli",Telemiracoli
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
