@@ -220,7 +220,7 @@ http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
 http://88.212.7.14/live/mb_dance/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Classic
-http://88.212.7.14/live/mb_classic/index.m3u8
+https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:0 group-title="News",BBC News
@@ -479,3 +479,11 @@ https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:0 group-title="-",Italia 9 Network
 https://live20.bozztv.com/akamaissh101/ssh101/italia9network/playlist.m3u8
+#EXTINF:0 group-title="-",Yara TV
+https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
+#EXTINF:0 group-title="-",Spaccanapoli
+https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
+#EXTINF:0 group-title="-",Telemiracoli
+https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+#EXTINF:0 group-title="-",_
+http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
