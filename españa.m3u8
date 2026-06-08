@@ -95,47 +95,5 @@ http://176.65.146.138:8046/play/a07j/index.m3u8
 http://176.65.146.138:8046/play/a06q/index.m3u8
 #EXTINF:0 group-title="España" tvg-chno="124",24h
 http://176.65.146.138:8046/play/a06r/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="0",BBC First
-http://185.94.79.41/1717/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="1",BBC One
-http://185.94.79.41/1724/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="2",BBC Two
-http://185.94.77.41/1758/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="3",ITV1
-http://185.94.79.41/1725/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="4",Channel 4
-http://185.94.79.41/1726/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="5",5
-http://185.94.79.41/1716/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="6",ITV2
-http://185.94.77.41/1761/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="10",ITV3
-http://185.94.77.41/1759/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="13",E4
-http://185.94.79.41/1737/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="14",Film 4
-http://185.94.79.41/1738/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="21",5 USA
-http://185.94.79.41/1836/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="26",ITV4
-http://185.94.77.41/1760/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="32",5 Star
-http://185.94.79.41/1837/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="49",4 Seven
-http://185.94.79.41/1806/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="201",CBBC
-http://185.94.77.41/1784/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="231",BBC News
-http://185.94.79.41/1812/index.m3u8
-#EXTINF:0 group-title="UK" tvg-chno="233",Sky News
-http://185.94.77.41/1752/index.m3u8
-#EXTINF:0 group-title="UK",Crime
-http://185.94.77.41/1762/index.m3u8
-#EXTINF:0 group-title="UK",Comedy Central
-http://185.94.77.41/1749/index.m3u8
-#EXTINF:0 group-title="UK",Nat Geo 
-http://185.94.77.41/1753/index.m3u8
-#EXTINF:0 group-title="UK",Nat Geo Wild
-http://185.94.77.41/1776/index.m3u8
-#EXTINF:0 group-title="EU",Music Box Classic
+#EXTINF:0,_
 http://185.94.79.41/1860/index.m3u8
