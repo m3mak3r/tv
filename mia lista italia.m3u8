@@ -495,3 +495,5 @@ https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
 #EXTINF:0 group-title="Napoli",TRM Palermo
 https://api.zappr.stream/trm.m3u8
+#EXTINF:0 group-title="Napoli",Radio Tutto Napoli
+https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
