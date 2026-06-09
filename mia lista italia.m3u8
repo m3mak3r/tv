@@ -26,23 +26,23 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="DE",Das Erste
+#EXTINF:0 group-title="tedeschi",Das Erste
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="DE",ZDF
+#EXTINF:0 group-title="tedeschi",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="DE",3sat
+#EXTINF:0 group-title="tedeschi",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",ORF 1
+#EXTINF:0 group-title="tedeschi",ORF 1
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",ORF 2
+#EXTINF:0 group-title="tedeschi",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",SAT.1
+#EXTINF:0 group-title="tedeschi",SAT.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ProSieben
+#EXTINF:0 group-title="tedeschi",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 1
+#EXTINF:0 group-title="Svizzera",RSI La 1
 http://169.150.223.25/RSILa1/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 2
+#EXTINF:0 group-title="Svizzera",RSI La 2
 http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -233,7 +233,7 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",TV Koper
 http://169.150.223.25/TVKoper/playlist.m3u8
-#EXTINF:0 group-title="World",teleticino
+#EXTINF:0 group-title="Svizzera",teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="News",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -325,7 +325,7 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="Vari",Tele A
+#EXTINF:0 group-title="Napoli",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Vari",Telechiara
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
@@ -489,3 +489,9 @@ https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
 #EXTINF:0 group-title="Napoli",Telemiracoli
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+#EXTINF:0 group-title="Napoli",Contrasto TV
+https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
+#EXTINF:0 group-title="Napoli",CRC
+https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
+#EXTINF:0 group-title="Napoli",TRM Palermo
+https://api.zappr.stream/trm.m3u8
