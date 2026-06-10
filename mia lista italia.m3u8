@@ -497,15 +497,15 @@ https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
 https://api.zappr.stream/trm.m3u8
 #EXTINF:0 group-title="Napoli",Radio Tutto Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",VR 14
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",TGS Sicilia
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",TVR Sicilia
 https://live20.bozztv.com/giatv/giatv-tvrsicilia/tvrsicilia/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",TVM 19
 https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",Vintage TV
 https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
-#EXTINF:0 group-title="Napoli",_
+#EXTINF:0 group-title="Napoli",87TV
 https://www.87tv.it/hls/vmix/720p/index.m3u8
