@@ -429,6 +429,8 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
 #EXTINF:0 group-title="-",Sky Sport MotoGP
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
+#EXTINF:0 group-title="-",Sky Atlantic
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
 #EXTINF:0 group-title="-",Eurosport
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0 group-title="Music",MTV LIVE USA
@@ -437,8 +439,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0 group-title="Music",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="-",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
