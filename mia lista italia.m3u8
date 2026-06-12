@@ -20,7 +20,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Cairo",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
-#EXTINF:0 group-title="Sky IT",TV8
+#EXTINF:0 group-title="Sky",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="WBD IT",NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
@@ -62,7 +62,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTINF:-1 group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
-#EXTINF:-1 group-title="Sky IT",Cielo
+#EXTINF:-1 group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 group-title="MDS",27 Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -122,7 +122,7 @@ https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m
 #EXTINF:-1 group-title="MDS",Mediaset Italia Due
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Sky IT",Sky TG24
+#EXTINF:-1 group-title="Sky",Sky TG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:-1 group-title="MDS",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -243,17 +243,17 @@ http://79.112.79.166:8069/udp/239.10.20.5:1234
 http://79.112.79.166:8069/udp/239.10.20.8:1234
 #EXTINF:0 group-title="Spagna",TDP
 http://79.112.79.166:8069/udp/239.10.20.3:1234
-#EXTINF:0 group-title="i",Rai Italia EU
+#EXTINF:0 group-title="Rai",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0 group-title="i",Rai Italia LA
+#EXTINF:0 group-title="Rai",Rai Italia LA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:0 group-title="i",Rai Italia AU
+#EXTINF:0 group-title="Rai",Rai Italia AU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="i",La7 Italia
+#EXTINF:0 group-title="Cairo",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:0 group-title="i",Rai World Premium
+#EXTINF:0 group-title="Rai",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:0 group-title="i",Mediaset Italia AU
+#EXTINF:0 group-title="MDS",Mediaset Italia AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
@@ -421,17 +421,17 @@ http://84.22.55.2:8032/play/s367
 http://84.22.55.2:8032/play/s368
 #EXTINF:0 group-title="triveneto",TV7 Triveneta
 http://84.22.55.2:8032/play/s369
-#EXTINF:0 group-title="-",Sky Uno
+#EXTINF:0 group-title="Sky",Sky Uno
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
-#EXTINF:0 group-title="-",Sky Sport 1
+#EXTINF:0 group-title="Sky",Sky Sport 1
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
-#EXTINF:0 group-title="-",Sky Sport Golf
+#EXTINF:0 group-title="Sky",Sky Sport Golf
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
-#EXTINF:0 group-title="-",Sky Sport MotoGP
+#EXTINF:0 group-title="Sky",Sky Sport MotoGP
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
-#EXTINF:0 group-title="-",Sky Atlantic
+#EXTINF:0 group-title="Sky",Sky Atlantic
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
-#EXTINF:0 group-title="-",Eurosport
+#EXTINF:0 group-title="Sky",Eurosport
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0 group-title="Music",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
