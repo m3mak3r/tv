@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 group-title="France" tvg-chno="1",TF1
+http://84.17.50.102/tf1/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="2",France 2
+http://84.17.50.102/france2/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="3",France 3
+http://84.17.50.102/france3/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="4",France 4
+http://84.17.50.102/france4/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="5",France 5
+http://84.17.50.102/france5/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="6",M6
+http://84.17.50.102/m6/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="7",Arte FR
+http://84.17.50.102/arte/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="8",LCP
+http://173.229.4.239:5004/auto/v8
+#EXTINF:0 group-title="France" tvg-chno="9",W9
+http://84.17.50.102/w9/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="10",TMC
+http://84.17.50.102/tmc/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="11",TFX
+http://173.229.4.239:5004/auto/v11
+#EXTINF:0 group-title="France" tvg-chno="12",GULLI
+http://173.229.4.239:5004/auto/v12
+#EXTINF:0 group-title="France" tvg-chno="13",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="14",CNEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:0 group-title="France" tvg-chno="15",LCI
+http://84.17.50.102/lci/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="16",franceinfo
+http://145.239.5.177/306/mpegts
+#EXTINF:0 group-title="France" tvg-chno="17",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:0 group-title="France" tvg-chno="18",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
+#EXTINF:0 group-title="France" tvg-chno="19",NOVO19
+http://173.229.4.239:5004/auto/v19
+#EXTINF:0 group-title="France" tvg-chno="20",TF1 Series Film
+http://41.205.93.154/TF1SERIESFILMS/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="21",L'équipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:0 group-title="France" tvg-chno="22",6Ter
+http://84.17.50.102/6ter/index.m3u8
+#EXTINF:0 group-title="France" tvg-chno="23",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:0 group-title="France" tvg-chno="24",RMC Decouverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:0 group-title="France" tvg-chno="25",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="France" tvg-chno="26",RMC Talk Info
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+#EXTINF:0 group-title="France" tvg-chno="27",RMC Sport 1
+http://145.239.5.177/525/mpegts
+#EXTINF:0 group-title="France" tvg-chno="28",Animaux
+http://145.239.5.177/314/mpegts
+#EXTINF:0 group-title="France" tvg-chno="29",TV Breizh
+http://145.239.5.177/318/mpegts
+#EXTINF:0 group-title="France" tvg-chno="30",Télé Paese
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:0 group-title="France",AB1
+http://145.239.5.177/332/mpegts
+#EXTINF:0 group-title="France",_
+http://145.239.5.177/319/mpegts
+#EXTINF:0 group-title="France",M6 Music
+http://145.239.5.177/320/mpegts
+#EXTINF:0 group-title="France",Cine+ Family
+http://145.239.5.177/321/mpegts
+#EXTINF:0 group-title="France",Chasse & Pêche
+http://145.239.5.177/322/mpegts
+#EXTINF:0 group-title="France",_
+http://145.239.5.177/337/mpegts
+#EXTINF:0 group-title="France",_
+http://145.239.5.177/341/mpegts
+#EXTINF:0 group-title="France" tvg-chno="80",KTO
+http://145.239.5.177/354/mpegts
+#EXTINF:0 group-title="France",Serie Club
+http://145.239.5.177/355/mpegts
+#EXTINF:0 group-title="France",Teva
+http://145.239.5.177/356/mpegts
+#EXTINF:0 group-title="Belgium" tvg-chno="91",RTBF La Une
+http://145.239.5.177/329/mpegts
+#EXTINF:0 group-title="Belgium" tvg-chno="92",RTBF Kids
+http://145.239.5.177/330/mpegts
+#EXTINF:0 group-title="France" tvg-chno="98",Arte TV
+http://145.239.5.177/300/mpegts
+#EXTINF:0 group-title="France" tvg-chno="99",RTL 9
+http://145.239.5.177/308/mpegts
+#EXTINF:0 group-title="France" tvg-chno="105",France 5 HD
+http://145.239.5.177/305/mpegts
+#EXTINF:0 group-title="France" tvg-chno="109",W9 HD
+http://145.239.5.177/331/mpegts
+#EXTINF:0 group-title="France" tvg-chno="115",LCI HD
+http://145.239.5.177/368/mpegts
+#EXTINF:0 group-title="France" tvg-chno="117",CSTAR HD
+http://145.239.5.177/361/mpegts
+#EXTINF:0 group-title="France" tvg-chno="121",L'équipe HD
+http://145.239.5.177/549/mpegts
+#EXTINF:0 group-title="France" tvg-chno="125",RMC Life HD
+http://145.239.5.177/333/mpegts
+#EXTINF:0 group-title="France" tvg-chno="151",Rouge TV
+http://145.239.5.177/371/mpegts
+#EXTINF:0 group-title="France" tvg-chno="202",Eurosport 2
+http://145.239.5.177/530/mpegts
+#EXTINF:0 group-title="France",_
+http://145.239.5.177/559/mpegts
+#EXTINF:0 group-title="France",_
+http://145.239.5.177/518/mpegts
