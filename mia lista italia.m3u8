@@ -521,3 +521,5 @@ https://api.zappr.stream/ciaktelesud.m3u8
 https://teatrotv.iostream.it/teatrotv.m3u8
 #EXTINF:0 group-title="Napoli",GBT
 https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
+#EXTINF:0 group-title="Napoli",TMC
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
