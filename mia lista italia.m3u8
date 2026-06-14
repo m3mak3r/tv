@@ -517,3 +517,7 @@ https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
 https://648026e87a75e.streamlock.net/telemessina/telemessina/master.m3u8
 #EXTINF:0 group-title="Napoli",Ciak Telesud 77
 https://api.zappr.stream/ciaktelesud.m3u8
+#EXTINF:0 group-title="Napoli",Teatro TV
+https://teatrotv.iostream.it/teatrotv.m3u8
+#EXTINF:0 group-title="Napoli",GBT
+https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
