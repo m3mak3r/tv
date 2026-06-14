@@ -231,7 +231,7 @@ https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",Cinquestelle
 https://183.bozztv.com/ssh101/ssh101/cinquestelle/chunks.m3u8
-#EXTINF:0 group-title="Vari",TV Koper
+#EXTINF:0 group-title="Svizzera",TV Koper Capodistria
 http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
