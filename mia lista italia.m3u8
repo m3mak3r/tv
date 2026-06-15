@@ -431,14 +431,14 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:0 group-title="Sky",Sky Atlantic
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
-#EXTINF:0 group-title="Sky",Eurosport
-http://91.146.94.234:10001/play/a05n
+#EXTINF:0 group-title="Sky",Collection
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
+#EXTINF:0 group-title="Sky",Comedy
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19097/mpegts
+#EXTINF:0 group-title="Sky",Stories
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:0 group-title="Music",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="Music",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Vari",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
@@ -519,7 +519,17 @@ https://648026e87a75e.streamlock.net/telemessina/telemessina/master.m3u8
 https://api.zappr.stream/ciaktelesud.m3u8
 #EXTINF:0 group-title="Napoli",Teatro TV
 https://teatrotv.iostream.it/teatrotv.m3u8
-#EXTINF:0,_
-https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
+#EXTINF:0,Canale 1 Lombardia
+https://media2.streambrothers.com:19360/8160/8160.m3u8
 #EXTINF:0 group-title="Napoli",TMC
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Stile TV
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:0 group-title="Napoli",Stereo 5
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:0 group-title="Napoli",Tele Ischia
+https://rst2.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+#EXTINF:0 group-title="Napoli",Tele Radio Ercolano
+https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
+#EXTINF:0 group-title="Napoli",West Sicily TV
+https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
