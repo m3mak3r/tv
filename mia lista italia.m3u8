@@ -431,11 +431,11 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:0 group-title="Sky",Sky Atlantic
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
-#EXTINF:0 group-title="Sky",Collection
+#EXTINF:0 group-title="Sky",Sky Cinema Collection
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
-#EXTINF:0 group-title="Sky",Comedy
+#EXTINF:0 group-title="Sky",Sky Cinema Comedy
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19097/mpegts
-#EXTINF:0 group-title="Sky",Stories
+#EXTINF:0 group-title="Sky",Sky Cinema Stories
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:0 group-title="Music",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
