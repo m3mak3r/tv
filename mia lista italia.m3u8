@@ -433,8 +433,8 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
 #EXTINF:0 group-title="Sky",Sky Cinema Collection
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
-#EXTINF:0 group-title="Sky",Sky Cinema Comedy
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19097/mpegts
+#EXTINF:0 group-title="Sky",Sky Cinema Suspense
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:0 group-title="Sky",Sky Cinema Stories
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:0 group-title="Music",MTV LIVE USA
@@ -535,5 +535,9 @@ https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
 https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
 #EXTINF:0,Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:0,_
+#EXTINF:0,Radio Londra
 https://rst6.saiuzwebnetwork.it:3208/hybrid/play.m3u8
+#EXTINF:0 group-title="Napoli",Paradise TV
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Radio Marte
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
