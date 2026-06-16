@@ -541,3 +541,5 @@ https://rst6.saiuzwebnetwork.it:3208/hybrid/play.m3u8
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Radio Marte
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Rete sud Caserta
+https://direct.intvstream.net:3448/hybrid/play.m3u8
