@@ -308,7 +308,7 @@ https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i
 #EXTINF:0 group-title="Regionali",RTI Calabria
 https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Rei TV
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
 #EXTINF:0 group-title="Regionali",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
