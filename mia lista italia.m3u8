@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+http://91.146.94.234:10001/play/a038
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -241,20 +241,20 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 http://79.112.79.166:8069/udp/239.10.20.5:1234
 #EXTINF:0 group-title="Spagna",La 2
 http://79.112.79.166:8069/udp/239.10.20.8:1234
+#EXTINF:0 group-title="Spagna",Antena 3
+http://79.112.79.166:8069/udp/239.10.20.9:1234
+#EXTINF:0 group-title="Spagna",Cuatro
+http://79.112.79.166:8069/udp/239.10.20.20:1234
+#EXTINF:0 group-title="Spagna",Telecinco
+http://79.112.79.166:8069/udp/239.10.20.19:1234
+#EXTINF:0 group-title="Spagna",LaSexta
+http://79.112.79.166:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="Spagna",TDP
 http://79.112.79.166:8069/udp/239.10.20.3:1234
-#EXTINF:0 group-title="Rai",Rai Italia EU
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0 group-title="Rai",Rai Italia LA
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:0 group-title="Rai",Rai Italia AU
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="Cairo",La7 Italia
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:0 group-title="Rai",Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:0 group-title="Mediaset",Mediaset Italia AU
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:0 group-title="Rai",Rai Italia
+http://202.169.224.202:8800/udp/239.6.2.3:1234
+#EXTINF:0 group-title="Mediaset",Mediaset Italia
+http://213.169.39.30:5255
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -292,7 +292,7 @@ https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/master.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0 group-title="Regionali",Tele Costa Smeralda
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleSardegna
