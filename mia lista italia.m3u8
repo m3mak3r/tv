@@ -252,7 +252,7 @@ http://79.112.79.166:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="Spagna",TDP
 http://79.112.79.166:8069/udp/239.10.20.3:1234
 #EXTINF:0 group-title="Rai",Rai Italia
-http://202.169.224.202:8800/udp/239.6.2.3:1234
+http://181.78.192.238:8000/play/a2hd
 #EXTINF:0 group-title="Mediaset",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:0 group-title="Regionali",TG Norba 24
