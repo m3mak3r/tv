@@ -545,3 +545,19 @@ https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 https://direct.intvstream.net:3448/hybrid/play.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
+#EXTINF:0 group-title="Regionali",Antenna 3
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
+#EXTINF:0 group-title="Regionali",Milanow
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66076&cntr=0
+#EXTINF:0,M'informo TV
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:0,Studio 54
+https://stream10.xdevel.com/video0s977557-2096/stream/playlist_dvr.m3u8
+#EXTINF:0,GBT
+https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
+#EXTINF:0,radio web primavera
+https://rst1.saiuzwebnetwork.it:8081/radiowebprimavera/index.m3u8
+#EXTINF:0,radio pompei
+https://rst1.saiuzwebnetwork.it:8081/radionpompei/index.m3u8
+#EXTINF:0,radio napoli emme
+https://rtmp.streams.ovh:8081/radionapoliemme-1/index.m3u8
