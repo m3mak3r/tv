@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="RU",02 РОССИЯ-1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="RU",03 МАТЧ!
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1 group-title="RU",04 НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="RU",05 ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="RU",06 РОССИЯ-К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="RU",07 РОССИЯ-24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="RU",08 КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="RU",09 ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="RU",10 ТВ Центр
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="RU",11 РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="RU",12 Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="RU",13 СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="RU",14 Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="RU",15 ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="RU",16 Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="RU",17 Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="RU",18 МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="RU",19 ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="RU",20 МУЗ ТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="RU",Сибирь 24
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1 group-title="RU",TVRTS RU
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="RU",ТВ7
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="RU",8TV RU
+https://v4.proofix.ru/8tv-europe/index.m3u8
+#EXTINF:-1 group-title="RU",RT EN
+https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT FR
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT ES
+https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT DE
+https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT Doc
+https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:0 group-title="RU",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:0,1TV RU
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,Россия 1 HD +0
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +3
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +6
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:0,Россия 1 HD +9
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:0,Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:0,Россия Культура HD +0
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0,Россия Культура HD +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:0,Россия Культура HD +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:0,Россия Культура HD +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc", Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наука
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Бобер
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="Music",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Music",Europa Plus
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+#EXTINF:0 group-title="Music",FON Music RU
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
