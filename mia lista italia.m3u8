@@ -229,10 +229,10 @@ https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:0 group-title="News",TRT World
+http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Cinquestelle
 https://183.bozztv.com/ssh101/ssh101/cinquestelle/chunks.m3u8
-#EXTINF:0 group-title="Svizzera",TV Koper Capodistria
-http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="Spagna",TVE 24h
@@ -557,7 +557,9 @@ https://stream10.xdevel.com/video0s977557-2096/stream/playlist_dvr.m3u8
 https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
 #EXTINF:0,radio web primavera
 https://rst1.saiuzwebnetwork.it:8081/radiowebprimavera/index.m3u8
-#EXTINF:0,radio pompei
+#EXTINF:0 group-title="Napoli",Radio Pompei
 https://rst1.saiuzwebnetwork.it:8081/radionpompei/index.m3u8
-#EXTINF:0,radio napoli emme
+#EXTINF:0 group-title="Napoli",Radio Napoli Emme
 https://rtmp.streams.ovh:8081/radionapoliemme-1/index.m3u8
+#EXTINF:0 group-title="Napoli",Calcio Napoli 24
+https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
