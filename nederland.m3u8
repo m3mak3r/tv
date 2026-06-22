@@ -51,3 +51,17 @@ http://193.239.187.102/CNN/index.m3u8
 http://193.239.187.102/EURONEWS/index.m3u8
 #EXTINF:0,NTV TR
 http://149.255.154.194/ntv/index.m3u8
+#EXTINF:-1,ARD
+http://193.239.186.231/ARD/index.m3u8
+#EXTINF:-1,ZDF
+http://193.239.186.231/ZDF/index.m3u8
+EXTINF:-1,FILMBOX
+http://193.239.186.231/FILMBOX/index.m3u8
+#EXTINF:-1,NICK
+http://193.239.186.231/NICK/index.m3u8
+#EXTINF:-1,NGC
+http://193.239.186.231/NGC/index.m3u8
+#EXTINF:-1,ESPN1 NL
+http://193.239.186.231/ESPN/index.m3u8
+#EXTINF:-1,ESPN2 NL
+http://193.239.186.231/ESPN2/index.m3u8
