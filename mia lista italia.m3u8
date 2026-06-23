@@ -404,13 +404,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="triveneto",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0 group-title="triveneto",Trentino TV
-http://84.22.55.2:8032/play/s361
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="triveneto",RTTR
 http://84.22.55.2:8032/play/s362
 #EXTINF:0 group-title="triveneto",Telepace Trento
 http://84.22.55.2:8032/play/s363
 #EXTINF:0 group-title="triveneto",7Gold Telepadova
-http://84.22.55.2:8032/play/s364
+https://api.zappr.stream/7goldtelepadova.m3u8
 #EXTINF:0 group-title="triveneto",Telenuovo
 http://84.22.55.2:8032/play/s365
 #EXTINF:0 group-title="triveneto",A3 Veneto
