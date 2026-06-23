@@ -143,3 +143,17 @@ https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTINF:0 group-title="Music",Muz Tv
+http://193.25.8.59:8000/muz
+#EXTINF:0 group-title="Music",Bridge Tv
+http://193.25.8.59:8000/bridge
+#EXTINF:0 group-title="Music",Bridge Fresh
+http://193.25.8.59:8000/cmusic
+#EXTINF:0 group-title="Music",Bridge Russian
+http://193.25.8.59:8000/rusong
+#EXTINF:0 group-title="Music",Bridge Schlager
+http://193.25.8.59:8000/mtv
+#EXTINF:0 group-title="Music",Shanson
+http://193.25.8.59:8000/shanson
+#EXTINF:0 group-title="tv",Match HD
+http://193.25.8.59:8000/rossia2
