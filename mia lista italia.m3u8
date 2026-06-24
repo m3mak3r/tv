@@ -148,14 +148,14 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 #EXTINF:-1 group-title="WBD IT",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/chunks.m3u8
 #EXTINF:0 group-title="Vari",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Vari",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/master.m3u8
-#EXTINF:0 group-title="Vari",SI SoloCalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Vari",Il Sole 24 ore TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
@@ -229,8 +229,8 @@ https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:0 group-title="News",TRT World
-http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:0 group-title="Vari",SI SoloCalcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Cinquestelle
 https://183.bozztv.com/ssh101/ssh101/cinquestelle/chunks.m3u8
 #EXTINF:0 group-title="Svizzera",teleticino
