@@ -442,7 +442,7 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="Vari",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
-https://rst5.saiuzwebnetwork.it:3815/hybrid/play.m3u8
+https://rst1.latuatv.eu/streams/channel_18/live.m3u8
 #EXTINF:0 group-title="Napoli",Napoletani nel mondo
 https://host2.hbbtv.me:28443/hls/napoletaninelmondo/index.m3u8
 #EXTINF:0 group-title="Napoli",Info Cilento
