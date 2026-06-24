@@ -451,8 +451,8 @@ https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
 https://videonola.aswifi.it/videonolaabr/live_hi/index.m3u8
 #EXTINF:0 group-title="Napoli",Italia Felix
 https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
-#EXTINF:0 group-title="Napoli",Itaca TV
-https://host2.hbbtv.me:28443/hls/itacatv/index.m3u8
+#EXTINF:0 group-title="Napoli",Video Mediterraneo
+https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:0 group-title="Napoli",Canale 8
