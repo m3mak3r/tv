@@ -175,15 +175,15 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Radionorba TV
+#EXTINF:-1 group-title="Music",Radionorba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
-#EXTINF:-1 group-title="Vari",RadioBruno TV
+#EXTINF:-1 group-title="Music",RadioBruno TV
 https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
 #EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Radio Kiss Kiss TV
+#EXTINF:-1 group-title="Music",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Kiss Kiss Napoli
+#EXTINF:-1 group-title="Music",Kiss Kiss Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radio Capital TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
