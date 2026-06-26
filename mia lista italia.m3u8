@@ -247,14 +247,14 @@ http://79.112.79.166:8069/udp/239.10.20.9:1234
 http://79.112.79.166:8069/udp/239.10.20.20:1234
 #EXTINF:0 group-title="Spagna",Telecinco
 http://79.112.79.166:8069/udp/239.10.20.19:1234
-#EXTINF:0 group-title="Spagna",LaSexta
-http://79.112.79.166:8069/udp/239.10.20.11:1234
-#EXTINF:0 group-title="Spagna",TDP
-http://79.112.79.166:8069/udp/239.10.20.3:1234
-#EXTINF:0 group-title="Rai",Rai Italia
+#EXTINF:0 group-title="Rai",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:0 group-title="Rai",Rai Italia US
 http://181.78.192.238:8000/play/a2hd
+#EXTINF:0 group-title="Rai",Rai Italia AU
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:0 group-title="Mediaset",Mediaset Italia
-http://213.169.39.30:5255
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -425,8 +425,8 @@ http://84.22.55.2:8032/play/s369
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport 1
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport Golf
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
+#EXTINF:0 group-title="Sky",Sky Sport 24
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19127/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport MotoGP
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:0 group-title="Sky",Sky Atlantic
