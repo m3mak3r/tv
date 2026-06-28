@@ -312,7 +312,7 @@ https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
 #EXTINF:0 group-title="Regionali",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",TV Koper Capodistria
-http://92.36.202.5:10001/play/a00r
+https://lb.dstvmultimedia.com/TVKoper/mpegts
 #EXTINF:0 group-title="Regionali",TeleOne
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
