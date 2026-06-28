@@ -59,8 +59,10 @@ https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 https://rt-fra.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="RU",RT dvr
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="RU",TVRUS
+https://hls.tvrus.t62a.com/1782662241/srd8sBUC6DocSLzDWTe2hA/bemtv/stream409/stream0.m3u8
+#EXTINF:-1 group-title="RU",TVRUS+
+https://hls.tvrus.t62a.com/1782662241/Irwe-8TamK82JpLkIy1T5Q/bemtv/stream336/stream0.m3u8
 #EXTINF:0 group-title="RU",Shanson TV
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0,1TV RU
@@ -157,3 +159,5 @@ http://193.25.8.59:8000/mtv
 http://193.25.8.59:8000/shanson
 #EXTINF:0 group-title="tv",Match HD
 http://193.25.8.59:8000/rossia2
+#EXTINF:-1 group-title="RU",RT dvr
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
