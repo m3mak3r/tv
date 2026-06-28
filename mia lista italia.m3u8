@@ -410,7 +410,7 @@ http://84.22.55.2:8032/play/s362
 #EXTINF:0 group-title="triveneto",Telepace Trento
 http://84.22.55.2:8032/play/s363
 #EXTINF:0 group-title="triveneto",7Gold Telepadova
-https://api.zappr.stream/7goldtelepadova.m3u8
+http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="triveneto",Telenuovo
 http://84.22.55.2:8032/play/s365
 #EXTINF:0 group-title="triveneto",A3 Veneto
@@ -511,8 +511,8 @@ https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
 https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Napoli",Radio Caserta TV
 https://load-balancer.azotosolutions.com/cdnedge35/casertatv5/playlist.m3u8
-#EXTINF:0 group-title="Napoli",TV RNM 1
-https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
+#EXTINF:0 group-title="Napoli",ITACA TV
+https://host2.hbbtv.me:28443/hls/itacatv/1_0/index.m3u8
 #EXTINF:0 group-title="Napoli",Telespazio Messina
 https://648026e87a75e.streamlock.net/telemessina/telemessina/master.m3u8
 #EXTINF:0 group-title="Napoli",Ciak Telesud 77
