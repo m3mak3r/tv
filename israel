@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 group-title="IL",KAN 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",KESHET 12 (offline)
+http://77.137.40.221:8000/play/a017
+#EXTINF:0 group-title="IL",RESHET 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:0 group-title="IL",CH14 ISR
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",i24 News Hebrew
+https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:0 group-title="IL",i24 News English
+https://i24newsenglish-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:0 group-title="IL",i24 News French
+https://i24newsfrench-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:0 group-title="IL",i24 News Arabic
+https://i24newsarabic-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:0 group-title="IL",MAKAN
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",9TV ISR Russian
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
+#EXTINF:0 group-title="IL",CH13 DVR
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
