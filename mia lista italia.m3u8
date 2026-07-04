@@ -555,7 +555,7 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0,Studio 54
 https://stream10.xdevel.com/video0s977557-2096/stream/playlist_dvr.m3u8
-#EXTINF:0,GBT
+#EXTINF:0 group-title="Napoli",GBT
 https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
 #EXTINF:0,radio web primavera
 https://rst1.saiuzwebnetwork.it:8081/radiowebprimavera/index.m3u8
