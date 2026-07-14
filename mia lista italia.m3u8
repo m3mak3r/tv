@@ -427,8 +427,6 @@ http://84.22.55.2:8032/play/s369
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport 1
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
-#EXTINF:0 group-title="Sky",Sky Comedy
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3939
 #EXTINF:0 group-title="Sky",Sky Sport MotoGP
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:0 group-title="Sky",Sky Atlantic
@@ -439,14 +437,16 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:0 group-title="Sky",Sky Cinema Stories
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
-#EXTINF:0 group-title="Music",MTV LIVE USA
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="Music",MTV Live
+http://40.160.24.53/MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="Music",MTV Classic
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="Vari",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+#EXTINF:0 group-title="Napoli",Calcio Napoli 24
+https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
 https://rst1.latuatv.eu/streams/channel_18/live.m3u8
-#EXTINF:0 group-title="Napoli",Napoletani nel mondo
-https://host2.hbbtv.me:28443/hls/napoletaninelmondo/index.m3u8
 #EXTINF:0 group-title="Napoli",Info Cilento
 https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Video Nola
@@ -513,7 +513,7 @@ https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
 https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Napoli",Radio Caserta TV
 https://load-balancer.azotosolutions.com/cdnedge35/casertatv5/playlist.m3u8
-#EXTINF:0 group-title="Napoli",ITACA TV
+#EXTINF:0,_
 https://host2.hbbtv.me:28443/hls/itacatv/1_0/index.m3u8
 #EXTINF:0 group-title="Napoli",Telespazio Messina
 https://648026e87a75e.streamlock.net/telemessina/telemessina/master.m3u8
@@ -561,8 +561,6 @@ https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
 https://rst1.saiuzwebnetwork.it:8081/radiowebprimavera/index.m3u8
 #EXTINF:0 group-title="Napoli",Radio Napoli Emme
 https://rtmp.streams.ovh:8081/radionapoliemme-1/index.m3u8
-#EXTINF:0 group-title="Napoli",Calcio Napoli 24
-https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
 #EXTINF:0 group-title="VM18",diva futura
 https://host1.momentotv.live:29443/divafutura/divafutura/index.m3u8
 #EXTINF:0 group-title="VM18",sex factor
