@@ -528,7 +528,7 @@ https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u
 #EXTINF:0 group-title="Napoli",Stereo 5
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:0 group-title="Napoli",Tele Ischia
-https://rst2.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+https://57068da1deb21.streamlock.net/livetv/livetv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Tele Radio Ercolano
 https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
 #EXTINF:0 group-title="Napoli",West Sicily TV
