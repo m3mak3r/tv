@@ -327,7 +327,7 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="Napoli",Tele A
+#EXTINF:0 group-title="Vari",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Vari",Telechiara
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
@@ -445,8 +445,8 @@ http://40.160.24.53/MTV_CLASSIC/index.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Napoli",Calcio Napoli 24
 https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
-#EXTINF:0 group-title="Napoli",Canale Totò
-https://rst1.latuatv.eu/streams/channel_18/live.m3u8
+#EXTINF:0 group-title="Napoli",Tele A
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Napoli",Info Cilento
 https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Video Nola
@@ -471,6 +471,8 @@ https://teleclubitalia.iostream.it/teleclubitalia.m3u8
 https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:0 group-title="Napoli",Sport Channel 214
 https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Canale Totò
+https://rst1.latuatv.eu/streams/channel_18/live.m3u8
 #EXTINF:0 group-title="Napoli",Rete Italia
 https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",TVA Campania
