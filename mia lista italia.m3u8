@@ -505,8 +505,8 @@ https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 #EXTINF:0 group-title="Napoli",TGS Sicilia
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
-#EXTINF:0 group-title="Napoli",TVR Sicilia
-https://live20.bozztv.com/giatv/giatv-tvrsicilia/tvrsicilia/playlist.m3u8
+#EXTINF:0 group-title="Napoli",per sempre
+https://rst2.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
 #EXTINF:0 group-title="Napoli",TVM 19
 https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Vintage TV
