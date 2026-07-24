@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1,tvr 1 HD
+https://aes.m3u8simplu.workers.dev:443/tvr1/index.m3u8
+#EXTINF:-1,tvr 2 HD
+https://aes.m3u8simplu.workers.dev:443/tvr2/index.m3u8
+#EXTINF:-1,tvr 3 HD
+https://aes.m3u8simplu.workers.dev:443/tvr3/index.m3u8
+#EXTINF:-1,B1 tv HD
+https://aes.m3u8simplu.workers.dev:443/b1/index.m3u8
+#EXTINF:-1,primatv HD
+https://aes.m3u8simplu.workers.dev:443/primatv/index.m3u8
+#EXTINF:-1,protv HD
+https://aes.m3u8simplu.workers.dev:443/protv/index.m3u8
+#EXTINF:-1,kanald HD
+https://aes.m3u8simplu.workers.dev:443/kanald/index.m3u8
+#EXTINF:-1,kanald 2 HD
+https://aes.m3u8simplu.workers.dev:443/kanald2/index.m3u8
+#EXTINF:-1,antena 1 HD
+https://aes.m3u8simplu.workers.dev:443/antena1/index.m3u8
+#EXTINF:-1,antena 3 HD
+https://aes.m3u8simplu.workers.dev:443/antena3/index.m3u8
+#EXTINF:-1,antenastars
+https://aes.m3u8simplu.workers.dev:443/antenastars/index.m3u8
+#EXTINF:-1,hbo hıts HD
+https://aes.m3u8simplu.workers.dev:443/hbo/index.m3u8
+#EXTINF:-1,hbo 2 hıts HD
+https://aes.m3u8simplu.workers.dev:443/hbo2/index.m3u8
+#EXTINF:-1,hbo 3 hıts HD
+https://aes.m3u8simplu.workers.dev:443/hbo3/index.m3u8
+#EXTINF:-1,amc HD
+https://aes.m3u8simplu.workers.dev:443/amc/index.m3u8
+#EXTINF:-1,axn HD
+https://aes.m3u8simplu.workers.dev:443/axn/index.m3u8
+#EXTINF:-1,axnwhite
+https://aes.m3u8simplu.workers.dev:443/axnwhite/index.m3u8
+#EXTINF:-1,axnspin
+https://aes.m3u8simplu.workers.dev:443/axnspin/index.m3u8
+#EXTINF:-1,axnblack
+https://aes.m3u8simplu.workers.dev:443/axnblack/index.m3u8
+#EXTINF:-1,epicdrama
+https://aes.m3u8simplu.workers.dev:443/epicdrama/index.m3u8
+#EXTINF:-1,filmbox HD
+https://aes.m3u8simplu.workers.dev:443/filmbox/index.m3u8
+#EXTINF:-1,filmboxfamily
+https://aes.m3u8simplu.workers.dev:443/filmboxfamily/index.m3u8
+#EXTINF:-1,filmboxpremium HD
+https://aes.m3u8simplu.workers.dev:443/filmboxpremium/index.m3u8
+#EXTINF:-1,filmboxextra HD
+https://aes.m3u8simplu.workers.dev:443/filmboxextra/index.m3u8
+#EXTINF:-1,filmbox stars HD
+https://aes.m3u8simplupink.workers.dev:443/filmboxstars/index.m3u8
+#EXTINF:-1,pink film HD
+https://aes.m3u8simplu.workers.dev:443/pink/index.m3u8
+#EXTINF:-1,cinemax HD
+https://aes.m3u8simplu.workers.dev:443/cinemax/index.m3u8
+#EXTINF:-1,cinemax 2 HD
+https://aes.m3u8simplu.workers.dev:443/cinemax2/index.m3u8
+#EXTINF:-1,happy
+https://aes.m3u8simplu.workers.dev:443/happy/index.m3u8
+#EXTINF:-1,nostalgia
+https://aes.m3u8simplu.workers.dev:443/nostalgia/index.m3u8
+#EXTINF:-1,cinemaratonplus
+https://aes.m3u8simplu.workers.dev:443/cinemaratonplus/index.m3u8
+#EXTINF:-1,primacomedy
+https://aes.m3u8simplu.workers.dev:443/primacomedy/index.m3u8
+#EXTINF:-1,diva
+https://aes.m3u8simplu.workers.dev:443/diva/index.m3u8
+#EXTINF:-1,tlc HD
+https://aes.m3u8simplu.workers.dev:443/tlc/index.m3u8
+#EXTINF:-1,discovery HD
+https://aes.m3u8simplu.workers.dev:443/discovery/index.m3u8
+#EXTINF:-1,history
+https://aes.m3u8simplu.workers.dev:443/history/index.m3u8
+#EXTINF:-1,animal planet
+https://aes.m3u8simplu.workers.dev:443/animalplanet/index.m3u8
+#EXTINF:-1,digianimal world
+https://aes.m3u8simplu.workers.dev:443/digianimalworld/index.m3u8
+#EXTINF:-1,natgeo HD
+https://aes.m3u8simplu.workers.dev:443/natgeo/index.m3u8
+#EXTINF:-1,natgeowild HD
+https://aes.m3u8simplu.workers.dev:443/natgeowild/index.m3u8
+#EXTINF:-1,viasathistory HD
+https://aes.m3u8simplu.workers.dev:443/viasathistory/index.m3u8
+#EXTINF:-1,viasatnature HD
+https://aes.m3u8simplu.workers.dev:443/viasatnature/index.m3u8
+#EXTINF:-1,viasat explor HD
+https://aes.m3u8simplu.workers.dev:443/viasatexplor/index.m3u8
+#EXTINF:-1,love nature HD
+https://aes.m3u8simplu.workers.dev:443/lovenature/index.m3u8
+#EXTINF:-1,digilife
+https://aes.m3u8simplu.workers.dev:443/digilife/index.m3u8
+#EXTINF:-1,hgtv
+https://aes.m3u8simplu.workers.dev:443/hgtv/index.m3u8
+#EXTINF:-1,taraf HD
+https://aes.m3u8simplu.workers.dev:443/taraf/index.m3u8
+#EXTINF:-1,mezzo
+https://aes.m3u8simplu.workers.dev:443/mezzo/index.m3u8
+#EXTINF:-1,paprika
+https://aes.m3u8simplu.workers.dev:443/paprika/index.m3u8
+#EXTINF:-1,etno
+https://aes.m3u8simplu.workers.dev:443/etno/index.m3u8
+#EXTINF:-1,zutv radıo
+https://aes.m3u8simplu.workers.dev:443/zutv/index.m3u8
+#EXTINF:-1,trinitas
+https://aes.m3u8simplu.workers.dev:443/trinitas/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+https://aes.m3u8simplu.workers.dev:443/eurosport1/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+https://aes.m3u8simplu.workers.dev:443/eurosport2/index.m3u8
+#EXTINF:-1,jimjam
+https://aes.m3u8simplu.workers.dev:443/jimjam/index.m3u8
+#EXTINF:-1,disneychannel
+https://aes.m3u8simplu.workers.dev:443/disneychannel/index.m3u8
+#EXTINF:-1,minimax
+https://aes.m3u8simplu.workers.dev:443/minimax/index.m3u8
+#EXTINF:-1,nicktoons
+https://aes.m3u8simplu.workers.dev:443/nicktoons/index.m3u8
+#EXTINF:-1,nickjr
+https://aes.m3u8simplu.workers.dev:443/nickjr/index.m3u8
+#EXTINF:-1,nickelodeon
+https://aes.m3u8simplu.workers.dev:443/nickelodeon/index.m3u8
+#EXTINF:-1,cartoonnetwork
+https://aes.m3u8simplu.workers.dev:443/cartoonnetwork/index.m3u8
+#EXTINF:-1,euronews
+https://aes.m3u8simplu.workers.dev:443/euronews/index.m3u8
+#EXTINF:-1,digi24
+https://aes.m3u8simplu.workers.dev:443/digi24/index.m3u8
