@@ -41,9 +41,17 @@ https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",RSI La 1
-http://91.146.94.234:10001/play/a0jn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
+#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0 group-title="Svizzera",RSI La 2
-http://91.146.94.234:10001/play/a0jo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
+#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -472,7 +480,7 @@ https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:0 group-title="Napoli",Sport Channel 214
 https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
-https://rst1.latuatv.eu/streams/channel_18/live.m3u8
+https://rst1.latuatv.eu/streams/channel_35/live.m3u8
 #EXTINF:0 group-title="Napoli",Rete Italia
 https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",TVA Campania
