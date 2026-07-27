@@ -21,3 +21,5 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="IL",CH13 DVR
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:0 group-title="IL",Channel 24
+http://stream.mcquack.net/42/index.m3u8
