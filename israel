@@ -23,3 +23,11 @@ https://contact.gostreaming.tv/Con-11/playlist.m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 group-title="IL",Channel 24
 http://stream.mcquack.net/42/index.m3u8
+#EXTINF:0 group-title="World",ISR CH 11
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:0 group-title="World",ISR CH 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:0 group-title="World",ISR CH 13
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:0 group-title="World",ISR CH 14
+http://stream.mcquack.net/454/index.m3u8
