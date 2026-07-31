@@ -32,10 +32,10 @@ https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
-#EXTINF:0 group-title="tedeschi",ORF 1
-https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
-#EXTINF:0 group-title="tedeschi",ORF 2
-http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:0 group-title="tedeschi",RTL Television
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:0 group-title="tedeschi",RTL Zwei
+http://193.239.187.106/RTL2/index.m3u8
 #EXTINF:0 group-title="tedeschi",SAT.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",ProSieben
@@ -117,8 +117,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3682
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28440
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="Mediaset",Cartoonito
@@ -241,8 +241,8 @@ https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Cinquestelle
-https://183.bozztv.com/ssh101/ssh101/cinquestelle/chunks.m3u8
+#EXTINF:0 group-title="Vari",San Marino RTV
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 #EXTINF:0 group-title="Svizzera",teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="Spagna",TVE 24h
