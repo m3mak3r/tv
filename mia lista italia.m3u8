@@ -607,3 +607,7 @@ https://stream1.aswifi.it/settv/live/index.m3u8
 https://streamcdnr7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:0 group-title="Napoli",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Primaset
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:0 group-title="Napoli",Sestarete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
