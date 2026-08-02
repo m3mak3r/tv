@@ -565,8 +565,8 @@ https://stream10.xdevel.com/video0s977557-2096/stream/playlist_dvr.m3u8
 https://rst5.saiuzwebnetwork.it:3506/hybrid/play.m3u8
 #EXTINF:0,radio web primavera
 https://rst1.saiuzwebnetwork.it:8081/radiowebprimavera/index.m3u8
-#EXTINF:0 group-title="Napoli",Radio Napoli Emme
-https://rtmp.streams.ovh:8081/radionapoliemme-1/index.m3u8
+#EXTINF:0 group-title="Napoli",Kiss Kiss Napoli
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:0 group-title="VM18",diva futura
 https://host1.momentotv.live:29443/divafutura/divafutura/index.m3u8
 #EXTINF:0 group-title="VM18",sex factor
