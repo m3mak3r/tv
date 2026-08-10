@@ -483,20 +483,20 @@ https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
 https://rst1.latuatv.eu/streams/channel_35/live.m3u8
 #EXTINF:0 group-title="Napoli",Canale Totò
 https://rst1.latuatv.eu/streams/channel_37/live.m3u8
-#EXTINF:0 group-title="Napoli",Rete Italia
-https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",TVA Campania
 https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",TVA Italia
 https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
-#EXTINF:0 group-title="Napoli",Prima TV Napoli
-https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Italia 9 Network
 https://live20.bozztv.com/akamaissh101/ssh101/italia9network/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Prima TV Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Canale 21
 https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0 group-title="Napoli",Canale 21 Extra
 https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+#EXTINF:0 group-title="Napoli",Rete Italia
+https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",Yara TV
 https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
 #EXTINF:0 group-title="Napoli",Spaccanapoli
@@ -519,8 +519,6 @@ https://rst2.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
 https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Vintage TV
 https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
-#EXTINF:0 group-title="Napoli",87TV
-https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Napoli",Radio Caserta TV
 https://load-balancer.azotosolutions.com/cdnedge35/casertatv5/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Telespazio Messina
@@ -611,6 +609,8 @@ https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",RTC Quartarete
 https://msh0232.stream.seeweb.it/live/stream00.sdp/master.m3u8
+#EXTINF:0 group-title="Napoli",87TV
+https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0,Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:0 group-title="Napoli",FBTV
