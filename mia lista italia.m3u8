@@ -569,8 +569,8 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 https://host1.momentotv.live:29443/divafutura/divafutura/index.m3u8
 #EXTINF:0 group-title="VM18",sex factor
 https://host1.momentotv.live:29443/sexfactor/sexfactor/playlist.m3u8
-#EXTINF:0 group-title="Napoli",Telemessina
-https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Sicilia 242
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Canale Flegreo
 https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Mediasud
@@ -619,3 +619,5 @@ https://rst1.latuatv.eu/streams/channel_19/live.m3u8
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:0 group-title="Napoli",Bari News 111
 https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
+#EXTINF:0,Telemessina
+https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
