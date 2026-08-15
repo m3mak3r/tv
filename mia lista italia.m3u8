@@ -506,7 +506,7 @@ https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
 #EXTINF:0 group-title="Napoli",Contrasto TV
 https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
 #EXTINF:0 group-title="Napoli",CRC
-https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
+https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Radio Tutto Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",VR 14
