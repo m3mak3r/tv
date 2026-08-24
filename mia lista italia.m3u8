@@ -621,3 +621,5 @@ https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicili
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:0,Telemessina
 https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
+#EXTINF:0 group-title="Napoli",telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
