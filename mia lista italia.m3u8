@@ -498,7 +498,7 @@ https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0 group-title="Napoli",Rete Italia
 https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",Yara TV
-https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
+https://rst1.latuatv.eu/streams/channel_26/live.m3u8
 #EXTINF:0 group-title="Napoli",Spaccanapoli
 https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
 #EXTINF:0 group-title="Napoli",Campania TV
