@@ -543,8 +543,6 @@ https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:0,Radio Londra
 https://rst6.saiuzwebnetwork.it:3208/hybrid/play.m3u8
-#EXTINF:0 group-title="Napoli",Paradise TV
-https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Radio Marte
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Rete sud Caserta
@@ -619,8 +617,6 @@ https://rst1.latuatv.eu/streams/channel_19/live.m3u8
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:0,Telemessina
 https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
-#EXTINF:0 group-title="Napoli",telenova
-https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Canale 82
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
