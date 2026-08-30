@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="IL",ISR CH 09
-http://stream.mcquack.net/20/index.m3u8
 #EXTINF:-1 group-title="IL",ISR CH 11
 http://stream.mcquack.net/293/index.m3u8
 #EXTINF:-1 group-title="IL",ISR CH 12
@@ -15,11 +13,15 @@ http://stream.mcquack.net/45/index.m3u8
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 group-title="IL",ISR CH 24
 http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 09
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:0 group-title="IL",HALA TV
+https://stream.panet.com/edge/halaTV/chunks.m3u8
 #EXTINF:0 group-title="IL",KAN 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
-#EXTINF:0 group-title="IL",CH14 ISR
+#EXTINF:0 group-title="IL",Channel 14
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",i24 News Hebrew
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
