@@ -1,8 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="IL",ISR CH 09
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 11
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 13
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 14
+http://stream.mcquack.net/454/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 15
+http://stream.mcquack.net/45/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 23
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 24
+http://stream.mcquack.net/42/index.m3u8
 #EXTINF:0 group-title="IL",KAN 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",KESHET 12 (offline)
-http://77.137.40.221:8000/play/a017
 #EXTINF:0 group-title="IL",RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:0 group-title="IL",CH14 ISR
@@ -21,13 +35,3 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="IL",CH13 DVR
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 group-title="IL",Channel 24
-http://stream.mcquack.net/42/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 11
-http://stream.mcquack.net/293/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 12
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 13
-http://stream.mcquack.net/295/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 14
-http://stream.mcquack.net/454/index.m3u8
