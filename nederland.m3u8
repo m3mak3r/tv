@@ -1,67 +1,67 @@
 #EXTM3U
 #EXTINF:0,NPO 1 NL
-http://193.239.186.231/NPO1/index.m3u8
+https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
 #EXTINF:0,NPO 2 NL
 http://193.239.187.97/NPO2/index.m3u8
 #EXTINF:0,NPO 3 NL
-http://193.239.186.231/NPO3/index.m3u8
+https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8
 #EXTINF:0,RTL 4 NL
 http://193.239.187.97/RTL4/index.m3u8
-#EXTINF:0,RTL 5 NL
-http://193.239.186.231/RTL5/index.m3u8
-#EXTINF:0,SBS 6 NL
-http://193.239.187.97/SBS6/index.m3u8
+#EXTINF:0,NPO 1 Extra
+https://bpm.tv.delta.nl/hls/combined/25/mobile.m3u8
+#EXTINF:0,NPO 2 Extra
+https://bpm.tv.delta.nl/hls/combined/24/mobile.m3u8
 #EXTINF:0,RTL 7 NL
 http://193.239.187.97/RTL7/index.m3u8
 #EXTINF:0,AT5 NL
 http://193.239.186.231/AT5/index.m3u8
-#EXTINF:0,SBS 9
-http://193.239.186.231/SBS9/index.m3u8
+#EXTINF:0,CH 49
+https://bpm.tv.delta.nl/hls/combined/49/mobile.m3u8
 #EXTINF:0,RTL Z NL
 http://193.239.187.97/RTLZ/index.m3u8
 #EXTINF:0,RTL 1 DE
 http://193.239.187.106/RTL/index.m3u8
 #EXTINF:0,RTL 2 DE
 http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:0,BBC 1 UK
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:0,BBC 2 UK
-http://193.239.187.97/BBC2/index.m3u8
-#EXTINF:0,BBC NL
-http://185.207.34.31:8000/play/21168/index.m3u8
 #EXTINF:0,VTM 1 BE
 http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0,VTM 2 BE
 http://185.207.34.31:8000/play/7056/index.m3u8
-#EXTINF:0,VTM 3 BE
-http://185.207.34.31:8000/play/21120/index.m3u8
-#EXTINF:0,VTM 4 BE
-http://185.207.34.31:8000/play/21122/index.m3u8
 #EXTINF:0,VRT 1 BE
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0,VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
+#EXTINF:0,Nat Geo NL
+http://185.207.34.31:8000/play/20965/index.m3u8
+#EXTINF:0,Play
+http://185.207.34.31:8000/play/7057/index.m3u8
+#EXTINF:0,Play Actie
+http://185.207.34.31:8000/play/7061/index.m3u8
+#EXTINF:0,Play Fictie
+http://185.207.34.31:8000/play/21126/index.m3u8
+#EXTINF:0,Play Reality
+http://185.207.34.31:8000/play/21127/index.m3u8
+#EXTINF:0,Sport 10
+http://185.207.34.31:8000/play/21229/index.m3u8
+#EXTINF:0,Sports First
+http://185.207.34.31:8000/play/a01i/index.m3u8
 #EXTINF:0,TLC NL
 http://193.239.187.97/TLC/index.m3u8
-#EXTINF:0,MTV NL
-http://193.239.187.102/MTV/index.m3u8
 #EXTINF:0,CNN Int
 http://193.239.187.102/CNN/index.m3u8
 #EXTINF:0,Euronews EN
 http://193.239.187.102/EURONEWS/index.m3u8
 #EXTINF:0,NTV TR
 http://149.255.154.194/ntv/index.m3u8
-#EXTINF:-1,ARD
-http://193.239.186.231/ARD/index.m3u8
-#EXTINF:-1,ZDF
-http://193.239.186.231/ZDF/index.m3u8
-EXTINF:-1,FILMBOX
-http://193.239.186.231/FILMBOX/index.m3u8
-#EXTINF:-1,NICK
-http://193.239.186.231/NICK/index.m3u8
-#EXTINF:-1,NGC
-http://193.239.186.231/NGC/index.m3u8
-#EXTINF:-1,ESPN1 NL
-http://193.239.186.231/ESPN/index.m3u8
-#EXTINF:-1,ESPN2 NL
-http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:0,ZDF NEO
+http://185.207.34.31:8000/play/a05i/index.m3u8
+#EXTINF:0,VRT 1
+https://bpm.tv.delta.nl/hls/combined/28/mobile.m3u8
+#EXTINF:0,VRT Canvas
+https://bpm.tv.delta.nl/hls/combined/29/mobile.m3u8
+#EXTINF:0,NL B
+https://bpm.tv.delta.nl/hls/combined/73/mobile.m3u8
+#EXTINF:0,NL R
+https://bpm.tv.delta.nl/hls/combined/72/mobile.m3u8
+#EXTINF:0,NL Z
+https://bpm.tv.delta.nl/hls/combined/11/mobile.m3u8
