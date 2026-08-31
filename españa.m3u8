@@ -15,6 +15,8 @@ http://79.112.79.166:8069/udp/239.10.20.11:1234
 http://79.112.79.166:8069/udp/239.10.20.17:1234
 #EXTINF:0 group-title="España" tvg-chno="8",_
 http://79.112.79.166:8069/udp/239.10.20.37:1234
+#EXTINF:0 group-title="España" tvg-chno="24",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="España" tvg-chno="9",TDP
 http://79.112.79.166:8069/udp/239.10.20.3:1234
 #EXTINF:0 group-title="España" tvg-chno="10",Ten
@@ -43,8 +45,6 @@ http://79.112.79.166:8069/udp/239.10.20.51:1234
 http://79.112.79.166:8069/udp/239.10.20.52:1234
 #EXTINF:0 group-title="España" tvg-chno="23",A3Series
 http://79.112.79.166:8069/udp/239.10.20.35:1234
-#EXTINF:0 group-title="España" tvg-chno="24",24h
-http://79.112.79.166:8069/udp/239.10.20.4:1234
 #EXTINF:0 group-title="España" tvg-chno="25",DKISS
 http://79.112.79.166:8069/udp/239.10.20.28:1234
 #EXTINF:0 group-title="España" tvg-chno="26",DMAX
@@ -75,25 +75,23 @@ http://79.112.79.166:8069/udp/239.250.5.1:1234
 http://79.112.79.166:8069/udp/239.250.4.2:1234
 #EXTINF:0 group-title="España" tvg-chno="99",La 1 UHD
 http://79.112.79.166:8069/udp/239.10.20.23:1234
-#EXTINF:0 group-title="España" tvg-chno="101",La 1
-http://176.65.146.138:8046/play/a06s/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="102",La 2
-http://176.65.146.138:8046/play/a06t/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="103",Antena 3
-http://176.65.146.138:8046/play/a07g/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="104",Cuatro
-http://185.94.77.40/1706/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="105",Telecinco
-http://185.94.79.41/1707/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="106",LaSexta
-http://176.65.146.138:8046/play/a07h/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="111",neox
-http://176.65.146.138:8046/play/a07i/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="112",nova
-http://176.65.146.138:8046/play/a07j/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="113",TDP
-http://176.65.146.138:8046/play/a06q/index.m3u8
-#EXTINF:0 group-title="España" tvg-chno="124",24h
-http://176.65.146.138:8046/play/a06r/index.m3u8
-#EXTINF:0,_
-http://185.94.79.41/1860/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="101",RTP 1
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="102",RTP 2
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="103",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="104",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="105",SIC
+http://50.7.120.34:8080/SIC/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="106",TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="107",Porto Canal
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="108",Sporting TV
+http://50.7.120.34:8080/SPORTING_TV/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="109",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:0 group-title="Portugal" tvg-chno="111",DAZN1
+http://50.7.120.34:8080/DAZN1/index.m3u8
