@@ -453,8 +453,8 @@ http://40.160.24.53/MTV_CLASSIC/index.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Napoli",Calcio Napoli 24
 https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
-#EXTINF:0 group-title="Napoli",Cinema Italiano
-https://c4d2cd4a.wurl.com/4300.m3u8
+#EXTINF:0 group-title="Napoli",111
+https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0 group-title="Napoli",Info Cilento
 https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Video Nola
