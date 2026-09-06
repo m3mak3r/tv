@@ -621,3 +621,7 @@ https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
+#EXTINF:0 group-title="test",telenorba
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h
+#EXTINF:0 group-title="test",antenna sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8?start=now-3h
