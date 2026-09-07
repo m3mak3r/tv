@@ -45,3 +45,19 @@ http://89.44.231.73:7000/tvr1
 http://89.44.231.73:7000/tvr2
 #EXTINF:-1 group-title="RO",TVR 3
 http://116.202.113.254:8888/tvr3
+#EXTINF:-1 group-title="RO",TVR 1 Play
+https://hls01ns.antenaplay.ro/hls/tvr-1-hd/index.m3u8
+#EXTINF:-1 group-title="RO",TVR 2 Play
+https://hls02ns.antenaplay.ro/hls/tvr-2-hd/index.m3u8
+#EXTINF:-1 group-title="RO",TVR 3 Play
+https://hls01ns.antenaplay.ro/hls/tvr-3-sd/index.m3u8
+#EXTINF:-1 group-title="RO",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 group-title="RO",euronews ro
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 group-title="RO",cinemaraton plys
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 group-title="RO",N24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 group-title="RO",National
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
