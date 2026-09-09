@@ -599,8 +599,8 @@ https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",RTC Quartarete
 https://msh0232.stream.seeweb.it/live/stream00.sdp/master.m3u8
-#EXTINF:0 group-title="Napoli",87TV
-https://www.87tv.it/hls/vmix/720p/index.m3u8
+#EXTINF:0 group-title="Napoli",Vintage TV
+https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
 #EXTINF:0,Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:0 group-title="Napoli",FBTV
@@ -613,3 +613,5 @@ https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
+#EXTINF:0,87 TV
+https://www.87tv.it/hls/vmix/720p/index.m3u8
