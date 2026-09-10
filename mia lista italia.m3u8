@@ -613,23 +613,21 @@ https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
-#EXTINF:0 group-title="test",87 TV
-https://www.87tv.it/hls/vmix/720p/index.m3u8
-#EXTINF:0 group-title="Sport",BG Max Sport 1
+#EXTINF:0 group-title="Sky",BG Max Sport 1
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-#EXTINF:0 group-title="Sport",BG Max Sport 2
+#EXTINF:0 group-title="Sky",BG Max Sport 2
 http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
-#EXTINF:0 group-title="Sport",BG Max Sport 3
+#EXTINF:0 group-title="Sky",BG Max Sport 3
 http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-#EXTINF:0 group-title="Sport",BG Max Sport 4
+#EXTINF:0 group-title="Sky",BG Max Sport 4
 http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
-#EXTINF:0 group-title="Sport",NL Ziggo Sport 1
+#EXTINF:0 group-title="Sky",NL Ziggo Sport 1
 https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
-#EXTINF:0 group-title="Sport",NL Ziggo Sport 2
+#EXTINF:0 group-title="Sky",NL Ziggo Sport 2
 https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
-#EXTINF:0 group-title="Sport",ESPN 1 A
+#EXTINF:0 group-title="Sky",ESPN 1 A
 http://154.12.107.98:8000/play/a08s
-#EXTINF:0 group-title="Sport",ESPN 2 A
+#EXTINF:0 group-title="Sky",ESPN 2 A
 http://154.12.107.98:8000/play/a08t
-#EXTINF:0 group-title="Sport",ESPN 3 A
+#EXTINF:0 group-title="Sky",ESPN 3 A
 http://154.12.107.98:8000/play/a09x
