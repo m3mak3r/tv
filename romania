@@ -61,3 +61,5 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 group-title="RO",National
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 group-title="RO",TV5Monde Europe
+https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
