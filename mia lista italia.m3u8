@@ -613,7 +613,7 @@ https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
-#EXTINF:0,87 TV
+#EXTINF:0 group-title="test",87 TV
 https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Sport",BG Max Sport 1
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
