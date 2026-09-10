@@ -615,3 +615,11 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
 #EXTINF:0,87 TV
 https://www.87tv.it/hls/vmix/720p/index.m3u8
+#EXTINF:0 group-title="Sport",BG Max Sport 1
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:0 group-title="Sport",BG Max Sport 2
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:0 group-title="Sport",BG Max Sport 3
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:0 group-title="Sport",BG Max Sport 4
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
