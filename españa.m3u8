@@ -1,4 +1,188 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5799
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5800
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="CANALES",ANTENA 3 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5801
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="CANALES",CUATRO HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5802
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="CANALES",TELECINCO HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5803
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="CANALES",LA SEXTA HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5804
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="CANALES",MOVISTAR PLUS +
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/7575
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="CANALES",M+ VAMOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5806
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="CANALES",ARAGON TV
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5807
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" group-title="CANALES",CANAL SUR A.
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5808
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2" tvg-logo="" group-title="CANALES",CANAL SUR 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18234
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ" tvg-logo="" group-title="CANALES",ONDA CADIZ
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/1671
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION GALICIA" tvg-logo="" group-title="CANALES",TELEVISION GALICIA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/6670
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="CANALES",EL TORO TV
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/6275
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="CANALES",CANAL EXTREMADURA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/1739
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="CANALES",CASTILLA LA MANCHA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/6330
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="CANALES",M+ ESTRENOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5825
+#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="CANALES",M+ HITS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5809
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="CANALES",M+ CLASICOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/7576
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CANALES",M+ ACCION
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5828
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="CANALES",M+ COMEDIA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5829
+#EXTINF:-1 tvg-id="" tvg-name="M+Cine EspaÑol" tvg-logo="" group-title="CANALES",M+Cine EspaÑol
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19697
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA " tvg-logo="" group-title="CANALES",M+ DRAMA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5830
+#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE HD" tvg-logo="" group-title="CANALES",M+ INDIE HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/11684
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES" tvg-logo="" group-title="CANALES",M+ ORIGINALES
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19692
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="CANALES",TCM HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5832
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CANALES",HOLLYWOOD HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5833
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="CANALES",XTRM
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/9009
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="CANALES",SUNDANCE
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5885
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="CANALES",DARK HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/8317
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="CANALES",SOMOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12026
+#EXTINF:-1 tvg-id="" tvg-name="SQUIRREL DOS" tvg-logo="" group-title="CANALES",SQUIRREL DOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5834
+#EXTINF:-1 tvg-id="" tvg-name="SQUIRREL" tvg-logo="" group-title="CANALES",SQUIRREL
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18236
+#EXTINF:-1 tvg-id="" tvg-name=" AMC WESTERN HD" tvg-logo="" group-title="CANALES", AMC WESTERN HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/11698
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="CANALES",TRECE
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18235
+#EXTINF:-1 tvg-id="" tvg-name="START CHANNEL HD " tvg-logo="" group-title="CANALES",START CHANNEL HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5811
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CANALES",AXN HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5812
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="CANALES",AXN MOVIES
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18237
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="CANALES",WARNER HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5813
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CANALES",COMEDY CENTRAL HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5814
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CANALES",CALLE 13 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5815
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="" group-title="CANALES",AMC HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5817
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="CANALES",SYFY HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5820
+#EXTINF:-1 tvg-id="" tvg-name="VINTV HD" tvg-logo="" group-title="CANALES",VINTV HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5844
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="CANALES",ENERGY
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5824
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="CANALES",FDF
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5822
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="CANALES",NEOX
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5823
+#EXTINF:-1 tvg-id="" tvg-name="VEO 7" tvg-logo="" group-title="CANALES",VEO 7
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19698
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="" group-title="CANALES",ATRESERIES HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/9010
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="CANALES",BOM CINE
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/11685
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER-TERROR" tvg-logo="" group-title="CANALES",THRILLER-TERROR
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/14758
+#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA" tvg-logo="" group-title="CANALES",PTV GRANADA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18238
+#EXTINF:-1 tvg-id="" tvg-name="PTV ALMERIA" tvg-logo="" group-title="CANALES",PTV ALMERIA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18239
+#EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="CANALES",PTV SEVILLA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/16738
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="CANALES",PTV MALAGA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/16740
+#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA" tvg-logo="" group-title="CANALES",PTV CORDOBA
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/8487
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="" group-title="CANALES",DAZN LALIGA HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5869
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="" group-title="CANALES",DAZN LALIGA 2 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19696
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA HD" tvg-logo="" group-title="CANALES",M LA LIGA HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5872
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="" group-title="CANALES",M+ LALIGA TV 2 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5870
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="" group-title="CANALES",M+ LALIGA TV 3 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/11691
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5851
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5852
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 " tvg-logo="" group-title="CANALES",LALIGA TV HYPERMOTION 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12030
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES HD" tvg-logo="" group-title="CANALES",M+ LIGA CAMPEONES HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5862
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES 2" tvg-logo="" group-title="CANALES",M+ LIGA CAMPEONES 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12962
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES 3" tvg-logo="" group-title="CANALES",M+ LIGA CAMPEONES 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19693
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES 4" tvg-logo="" group-title="CANALES",M+ LIGA CAMPEONES 4
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12031
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES 5" tvg-logo="" group-title="CANALES",M+ LIGA CAMPEONES 5
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/7588
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA REF" tvg-logo="" group-title="CANALES",M LIGA REF
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/17952
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="CANALES",GOL
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18161
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 1" tvg-logo="" group-title="CANALES",DAZN BALONCESTO 1
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18934
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 2" tvg-logo="" group-title="CANALES",DAZN BALONCESTO 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18935
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 3" tvg-logo="" group-title="CANALES",DAZN BALONCESTO 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18936
+#EXTINF:-1 tvg-id="" tvg-name="M+BaloncestoHD" tvg-logo="" group-title="CANALES",M+BaloncestoHD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/7580
+#EXTINF:-1 tvg-id="" tvg-name="M+Baloncesto 3" tvg-logo="" group-title="CANALES",M+Baloncesto 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19694
+#EXTINF:-1 tvg-id="" tvg-name="M+Baloncesto 2" tvg-logo="" group-title="CANALES",M+Baloncesto 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19695
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="CANALES",DAZN F1 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5853
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTOS" tvg-logo="" group-title="CANALES",DAZN MOTOS
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19096
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="CANALES",DAZN 1 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5849
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="CANALES",DAZN 2 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5850
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="CANALES",DAZN 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12923
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="CANALES",DAZN 4
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/12924
+#EXTINF:-1 tvg-id="" tvg-name="M GOLF" tvg-logo="" group-title="CANALES",M GOLF
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/19182
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="" group-title="CANALES",M DEPORTES HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5866
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 2 " tvg-logo="" group-title="CANALES",M DEPORTES 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5864
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="CANALES",M+ DEPORTES 3
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18605
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="CANALES",M+ DEPORTES 4
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18606
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="CANALES",M+ DEPORTES 5
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18607
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="CANALES",M+ DEPORTES 6
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/18608
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="CANALES",EUROSPORT 1 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5858
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" group-title="CANALES",EUROSPORT 2
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5857
 #EXTINF:0 group-title="España" tvg-chno="1",La 1
 http://79.112.79.166:8069/udp/239.10.20.5:1234
 #EXTINF:0 group-title="España" tvg-chno="2",La 2
