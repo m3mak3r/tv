@@ -239,16 +239,16 @@ http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="Spagna",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:0 group-title="Spagna",La 1
-http://79.112.79.166:8069/udp/239.10.20.5:1234
-#EXTINF:0 group-title="Spagna",La 2
-http://79.112.79.166:8069/udp/239.10.20.8:1234
-#EXTINF:0 group-title="Spagna",Antena 3
-http://79.112.79.166:8069/udp/239.10.20.9:1234
-#EXTINF:0 group-title="Spagna",Cuatro
-http://79.112.79.166:8069/udp/239.10.20.20:1234
-#EXTINF:0 group-title="Spagna",Telecinco
-http://79.112.79.166:8069/udp/239.10.20.19:1234
+#EXTINF:0 group-title="Spagna",TVE La1
+https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
+#EXTINF:0 group-title="Spagna",TVE La2
+https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
+#EXTINF:0 group-title="Spagna",TVE tdp
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
+#EXTINF:0 group-title="Vari",BBC Earth
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+#EXTINF:0 group-title="Vari",BBC Series
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
 #EXTINF:0 group-title="Rai",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:0 group-title="Rai",Rai Italia US
@@ -613,6 +613,14 @@ https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_ajraqwugiagc.m3u8
 #EXTINF:0 group-title="Napoli",TV Luna
 https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
+#EXTINF:0 group-title="Napoli",tv rnm2
+https://rtmp.streams.ovh:8081/radionapoliemme-1/index.m3u8
+#EXTINF:0 group-title="Napoli",Telecentro
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Teleambiente
+https://64b16f23efbee.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
 #EXTINF:0 group-title="Sky",BG Max Sport 1
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
 #EXTINF:0 group-title="Sky",BG Max Sport 2
