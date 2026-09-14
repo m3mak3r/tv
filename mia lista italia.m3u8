@@ -639,3 +639,9 @@ http://154.12.107.98:8000/play/a08s
 http://154.12.107.98:8000/play/a08t
 #EXTINF:0 group-title="Sky",ESPN 3 A
 http://154.12.107.98:8000/play/a09x
+#EXTINF:0 group-title="Napoli",BBC Earth
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+#EXTINF:0 group-title="Napoli",BBC Series
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Rai Italia SD
+http://179.63.5.46:8000/play/a01n/index.m3u8
