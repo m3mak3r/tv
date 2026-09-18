@@ -480,8 +480,8 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",TVA Italia
 https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
-#EXTINF:0 group-title="Napoli",7 Gold Campania
-https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Piana TV
+https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:0 group-title="Napoli",Prima TV Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Canale 21
@@ -498,8 +498,8 @@ https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli1/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
 #EXTINF:0 group-title="Napoli",Contrasto TV
 https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
-#EXTINF:0 group-title="Napoli",CRC
-https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Telefutura
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
 #EXTINF:0 group-title="Napoli",Radio Tutto Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",VR 14
