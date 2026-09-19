@@ -21,12 +21,16 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
 #EXTINF:0 group-title="Sky",TV8
-https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
+http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 group-title="WBD IT",NOVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Svizzera",RSI La 1
+http://102.129.186.182:81/rsi1/index.m3u8
+#EXTINF:0 group-title="Svizzera",RSI La 2
+http://102.129.186.182:81/rsi2/index.m3u8
 #EXTINF:0 group-title="tedeschi",Das Erste
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",ZDF
@@ -35,16 +39,12 @@ https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",RTL Television
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:0 group-title="tedeschi",RTL Zwei
-http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:0 group-title="tedeschi",SAT.1
-https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="tedeschi",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:0 group-title="Svizzera",RSI La 1
-http://176.65.153.57:5002/play/a06o/index.m3u8
-#EXTINF:0 group-title="Svizzera",RSI La 2
-http://176.65.153.57:5002/play/a06o/index.m3u8
+#EXTINF:0 group-title="tedeschi",SAT.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="Sky",Comedy Central
+http://102.129.186.182:81/comedy/index.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -126,7 +126,7 @@ https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Sky",Sky TG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 group-title="Mediaset",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
@@ -257,7 +257,7 @@ http://181.78.192.238:8000/play/a2hd
 #EXTINF:0 group-title="Rai",Rai Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:0 group-title="Mediaset",Mediaset Italia
-https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+http://213.169.39.30:5255
 #EXTINF:0,TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0,Telenorba
@@ -392,16 +392,16 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:0 group-title="Vari",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
-#EXTINF:0 group-title="Mediaset",GF Regia 1
+#EXTINF:0 group-title="Mediaset",GF Vip Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Regia 2
+#EXTINF:0 group-title="Mediaset",GF Vip Regia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Un'ora fa
+#EXTINF:0 group-title="Mediaset",GF Vip Un'ora fa
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Extra
+#EXTINF:0 group-title="Mediaset",GF Vip Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="triveneto",Alto Adige TV
