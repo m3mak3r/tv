@@ -478,8 +478,8 @@ https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",TVA Campania
 https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
-#EXTINF:0 group-title="Napoli",TVA Italia
-https://load-balancer.azotosolutions.com/cdnedge35/tvitalia6/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Antenna 3 Lombardia
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
 #EXTINF:0 group-title="Napoli",Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:0 group-title="Napoli",Prima TV Napoli
