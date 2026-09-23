@@ -650,5 +650,5 @@ http://181.209.105.115:2525/play/raiitalia/index.m3u8
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Napoli",7Gold Telepadova
 http://84.22.55.2:8032/play/s364
-#EXTINF:0 group-title="Napoli",Box TV
-https://host1.momentotv.live:28443/hls/boxtv/playlist.m3u8
+#EXTINF:0 group-title="Napoli",LaccoAmenoTV
+https://rst5.saiuzwebnetwork.it:3528/hybrid/play.m3u8
