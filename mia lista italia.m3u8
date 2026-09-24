@@ -652,3 +652,5 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="Napoli",LaccoAmenoTV
 https://rst5.saiuzwebnetwork.it:3528/hybrid/play.m3u8
+#EXTINF:0 group-title="Napoli",Mediaset Italia (USA)
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
