@@ -662,6 +662,8 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
 https://load-balancer.azotosolutions.com/cdnedge34/trylaim/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Milanow
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
+#EXTINF:0 group-title="Napoli",L'altro corriere
+https://streamcdng7-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/master.m3u8
 #EXTINF:0 group-title="Sky",Sky Sport italiano 1
 http://38.147.104.162:80/premium20/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport italiano 2
