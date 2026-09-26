@@ -650,3 +650,15 @@ http://84.22.55.2:8032/play/s364
 https://rst5.saiuzwebnetwork.it:3528/hybrid/play.m3u8
 #EXTINF:0 group-title="Napoli",Mediaset Italia (USA)
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:0 group-title="Napoli",RETE 7
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+#EXTINF:0 group-title="Napoli",MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+#EXTINF:0 group-title="Napoli",Rai Radio 2 202
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:0 group-title="Napoli",TV7 News
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="Napoli",Try Lime
+https://load-balancer.azotosolutions.com/cdnedge34/trylaim/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Milanow
+https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
