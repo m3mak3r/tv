@@ -640,8 +640,8 @@ http://154.12.107.98:8000/play/a09x
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:0 group-title="Napoli",BBC Series
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
-#EXTINF:0 group-title="Napoli",Rai Italia SD
-http://181.209.105.115:2525/play/raiitalia/index.m3u8
+#EXTINF:0 group-title="Napoli",Italiana (Rai)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:0 group-title="Napoli",telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Napoli",7Gold Telepadova
