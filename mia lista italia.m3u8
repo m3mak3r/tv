@@ -668,6 +668,8 @@ https://streamcdng7-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BE
 https://64b16f23efbee.streamlock.net/napoletanostyle/napoletanostyle/index.m3u8
 #EXTINF:0 group-title="Napoli",Core TV
 https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
+#EXTINF:0 group-title="Napoli",TVA Italia
+https://live20.bozztv.com/akamaissh101/ssh101/tvaitalia/chunks.m3u8
 #EXTINF:0 group-title="Sky",Sky Sport italiano 1
 http://38.147.104.162:80/premium20/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport italiano 2
