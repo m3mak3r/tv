@@ -614,6 +614,10 @@ https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 https://64b16f23efbee.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Sulmona
 https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+#EXTINF:0 group-title="Sky",NL Ziggo Sport 1
+https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
+#EXTINF:0 group-title="Sky",NL Ziggo Sport 2
+https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="Sky",BG Max Sport 1
 http://212.70.131.37:8000/play/a085
 #EXTINF:0 group-title="Sky",BG Max Sport 2
@@ -622,17 +626,13 @@ http://212.70.131.37:8000/play/a086
 http://212.70.131.37:8000/play/a06h
 #EXTINF:0 group-title="Sky",BG Max Sport 4
 http://212.70.131.37:8000/play/a07n
-#EXTINF:0 group-title="Sky",NL Ziggo Sport 1
-https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
-#EXTINF:0 group-title="Sky",NL Ziggo Sport 2
-https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="Sky",ESPN 1 A
 http://154.12.107.98:8000/play/a08s
 #EXTINF:0 group-title="Sky",ESPN 2 A
 http://154.12.107.98:8000/play/a08t
 #EXTINF:0 group-title="Sky",ESPN 3 A
 http://154.12.107.98:8000/play/a09x
-#EXTINF:0 group-title="Sky",ESPN
+#EXTINF:0 group-title="Sky",ESPN 1 HD
 http://181.78.0.107:8006/play/a08p/index.m3u8
 #EXTINF:0 group-title="Sky",ESPN 2 HD
 http://181.78.0.107:8006/play/a07d/index.m3u8
@@ -684,6 +684,14 @@ https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
 https://stream7.livinlive.it/lecronache/live/playlist_dvr.m3u8
 #EXTINF:0 group-title="Napoli",Tua Channel
 https://media2021.rtvweb.com/promovideo_web/tuachannel/chunklist_w1762589752.m3u8
+#EXTINF:0 group-title="Sky",Milan TV
+http://102.129.186.182:81/milan/index.m3u8
+#EXTINF:0 group-title="Sky",Inter TV
+http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:0 group-title="Sky",Caccia TV
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:0 group-title="Sky",Pesca TV
+http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:0 group-title="Sky",Sky Sport italiano 1
 http://38.147.104.162:80/premium20/mpegts
 #EXTINF:0 group-title="Sky",Sky Sport italiano 2
