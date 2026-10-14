@@ -636,6 +636,22 @@ http://154.12.107.98:8000/play/a08s
 http://154.12.107.98:8000/play/a08t
 #EXTINF:0 group-title="Sky",ESPN 3 A
 http://154.12.107.98:8000/play/a09x
+#EXTINF:0 group-title="Sky",ESPN
+http://181.78.0.107:8006/play/a08p/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 2 HD
+http://181.78.0.107:8006/play/a07d/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 3 HD
+http://181.78.0.107:8006/play/a07j/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 4 HD
+http://181.78.0.107:8006/play/a07k/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 5 HD
+http://181.78.0.107:8006/play/a03p/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 6 HD
+http://181.78.0.107:8006/play/a03n/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN 7 HD
+http://181.78.0.107:8006/play/a080/index.m3u8
+#EXTINF:0 group-title="Sky",ESPN Premium HD
+http://181.78.0.107:8006/play/a05o/index.m3u8
 #EXTINF:0 group-title="Napoli",BBC Earth
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:0 group-title="Napoli",BBC Series
