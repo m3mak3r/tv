@@ -682,8 +682,8 @@ https://64b16f23efbee.streamlock.net/napoletanostyle/napoletanostyle/index.m3u8
 https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
 #EXTINF:0 group-title="Napoli",Le Cronache
 https://stream7.livinlive.it/lecronache/live/playlist_dvr.m3u8
-#EXTINF:0 group-title="Napoli",Tele One
-https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:0 group-title="Napoli",87 TV
+https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Sky",Milan TV
 http://102.129.186.182:81/milan/index.m3u8
 #EXTINF:0 group-title="Sky",Inter TV
