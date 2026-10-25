@@ -456,12 +456,12 @@ https://videonola.aswifi.it/videonola/live/index.m3u8
 https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
 #EXTINF:0 group-title="Napoli",Video Mediterraneo
 https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:0 group-title="Napoli",it channel
-https://stream10.xdevel.com/video1s978704-2979/stream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Rete+Italia
+https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
 #EXTINF:0 group-title="Napoli",Canale 8
 https://canale8.zappr.stream/live/main-204747824658.m3u8
-#EXTINF:0 group-title="Napoli",Capri Events
-https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
+#EXTINF:0 group-title="Napoli",it channel
+https://stream10.xdevel.com/video1s978704-2979/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Taurianova TV
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Teleluna
@@ -488,8 +488,8 @@ https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0 group-title="Napoli",Canale 21 Extra
 https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
-#EXTINF:0 group-title="Napoli",Rete Italia
-https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
+#EXTINF:0 group-title="Napoli",Capri Events
+https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
 #EXTINF:0 group-title="Napoli",Yara TV
 https://rst1.latuatv.eu/streams/channel_26/live.m3u8
 #EXTINF:0 group-title="Napoli",Spaccanapoli
