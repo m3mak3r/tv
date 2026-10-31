@@ -682,7 +682,7 @@ https://64b16f23efbee.streamlock.net/napoletanostyle/napoletanostyle/index.m3u8
 https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
 #EXTINF:0 group-title="Napoli",Le Cronache
 https://stream7.livinlive.it/lecronache/live/playlist_dvr.m3u8
-#EXTINF:0 group-title="Napoli",87 TV
+#EXTINF:0,87 TV
 https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:0 group-title="Napoli",Rete A
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
