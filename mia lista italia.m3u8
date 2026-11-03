@@ -684,6 +684,20 @@ https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
 https://stream7.livinlive.it/lecronache/live/playlist_dvr.m3u8
 #EXTINF:0 group-title="Napoli",Rete A
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="Napoli",Alpa 1
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Momento TV
+https://host1.momentotv.live:28443/hls/momentotv/index.m3u8
+#EXTINF:0 group-title="Napoli",TELESTELLA
+https://5db313b643fd8.streamlock.net/telestella/telestella/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:0 group-title="Napoli",FM TV LIVE
+https://direct.intvstream.net:3737/live/fmtvlive.m3u8
+#EXTINF:0 group-title="Napoli",LaC TV (Calabria)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Farma TV
+https://rst1.saiuzwebnetwork.it:8081/farmatv/index.m3u8
 #EXTINF:0 group-title="Sky",Milan TV
 http://102.129.186.182:81/milan/index.m3u8
 #EXTINF:0 group-title="Sky",Inter TV
