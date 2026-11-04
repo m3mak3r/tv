@@ -696,6 +696,8 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 https://direct.intvstream.net:3737/live/fmtvlive.m3u8
 #EXTINF:0 group-title="Napoli",LaC TV (Calabria)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Calabria Uno
+https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Farma TV
 https://rst1.saiuzwebnetwork.it:8081/farmatv/index.m3u8
 #EXTINF:0 group-title="Sky",Milan TV
