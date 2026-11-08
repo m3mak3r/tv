@@ -698,7 +698,9 @@ https://direct.intvstream.net:3737/live/fmtvlive.m3u8
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Calabria Uno
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
-#EXTINF:0 group-title="Napoli",WLTV
+#EXTINF:0 group-title="Napoli",Antenna Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+#EXTINF:0,WLTV
 https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 #EXTINF:0 group-title="Sky",Milan TV
 http://102.129.186.182:81/milan/index.m3u8
