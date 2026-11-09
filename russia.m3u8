@@ -161,3 +161,43 @@ http://193.25.8.59:8000/shanson
 http://193.25.8.59:8000/rossia2
 #EXTINF:-1 group-title="RU",RT dvr
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+#EXTINF:0 group-title="CN",CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 4
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:0 group-title="CN",CCTV 5+
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:0 group-title="CN",CCTV 4K
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:0 group-title="CN",CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
