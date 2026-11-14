@@ -698,8 +698,6 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:0 group-title="Napoli",WLTV
 https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
-#EXTINF:0 group-title="Napoli",RTP Messina
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Telemessina
 https://5db313b643fd8.streamlock.net/telemessina/telemessina/playlist.m3u8
 #EXTINF:0 group-title="Napoli",video calabria
