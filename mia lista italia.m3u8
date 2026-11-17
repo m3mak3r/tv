@@ -598,18 +598,6 @@ https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 https://64b16f23efbee.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Sulmona
 https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
-#EXTINF:0 group-title="Sky",Cinema Uno
-http://109.169.87.42:8080/stream/2/index.m3u8
-#EXTINF:0 group-title="Sky",Cinema Stories
-http://109.169.87.42:8080/stream/10/index.m3u8
-#EXTINF:0 group-title="Sky",Cinema Collection
-http://109.169.87.42:8080/stream/18/index.m3u8
-#EXTINF:0 group-title="Sky",Cinema Family
-http://109.169.87.42:8080/stream/23/index.m3u8
-#EXTINF:0 group-title="Sky",Cinema Action
-http://109.169.87.42:8080/stream/27/index.m3u8
-#EXTINF:0 group-title="Sky",Cinema Suspense
-http://109.169.87.42:8080/stream/31/index.m3u8
 #EXTINF:0 group-title="Sky",Max Sport 1
 http://77.85.236.219:6061/play/MAX_Sport_1_HD/index.m3u8
 #EXTINF:0 group-title="Sky",Max Sport 2
