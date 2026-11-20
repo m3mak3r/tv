@@ -504,8 +504,6 @@ https://load-balancer.azotosolutions.com/cdnedge35/casertatv5/playlist.m3u8
 https://648026e87a75e.streamlock.net/telemessina/telemessina/master.m3u8
 #EXTINF:0 group-title="Napoli",Teatro TV
 https://teatrotv.iostream.it/teatrotv.m3u8
-#EXTINF:0,Canale 1 Lombardia
-https://media2.streambrothers.com:19360/8160/8160.m3u8
 #EXTINF:0 group-title="Napoli",TMC
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Stile TV
@@ -704,6 +702,8 @@ https://edge-003.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:0 group-title="Napoli",compagni di viaggio
 https://rst1.latuatv.eu/streams/channel_61/live.m3u8
+#EXTINF:0 group-title="Napoli",Canale 1 Lombardia
+https://media2.streambrothers.com:1936/8160-1/8160-1/main_stream.m3u8
 #EXTINF:0 group-title="Sky",Milan TV
 http://102.129.186.182:81/milan/index.m3u8
 #EXTINF:0 group-title="Sky",Inter TV
