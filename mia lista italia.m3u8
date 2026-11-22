@@ -658,7 +658,9 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
 https://load-balancer.azotosolutions.com/cdnedge34/trylaim/playlist.m3u8
 #EXTINF:0 group-title="Napoli",Milanow
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
-#EXTINF:0 group-title="Napoli",L'altro corriere
+#EXTINF:0 group-title="Napoli",GS Channel
+https://rst1.saiuzwebnetwork.it:2020/hls/tvgschannel/tvgschannel.m3u8
+#EXTINF:0,L'Altro Corriere
 https://streamcdng7-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/master.m3u8
 #EXTINF:0 group-title="Napoli",napoletano style
 https://64b16f23efbee.streamlock.net/napoletanostyle/napoletanostyle/index.m3u8
