@@ -714,15 +714,3 @@ http://102.129.186.182:81/inter/index.m3u8
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:0 group-title="Sky",Pesca TV
 http://102.129.186.182:81/pescacaccia/index.m3u8
-#EXTINF:0 group-title="Sky",Sky Sport italiano 1
-http://38.147.104.162:80/premium20/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport italiano 2
-http://38.147.104.162:80/premium21/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport italiano 3
-http://38.147.104.162:80/premium24/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport italiano 4
-http://38.147.104.162:80/premium25/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport italiano 5
-http://38.147.104.162:80/premium26/mpegts
-#EXTINF:0 group-title="Sky",Sky Sport italiano 6
-http://38.147.104.162:80/premium27/mpegts
