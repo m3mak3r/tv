@@ -1,20 +1,71 @@
 #EXTM3U
-#EXTINF:-1 group-title="IL",ISR CH 11
-http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 12
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 13
-http://stream.mcquack.net/295/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 14
-http://stream.mcquack.net/454/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 15
-http://stream.mcquack.net/45/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 23
-http://stream.mcquack.net/378/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 24
-http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 09
-http://stream.mcquack.net/20/index.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/keshet_12/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kan11_subs/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_10/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/i24_he/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/ch14/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/reshet_13/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/vamos/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/daily_drama/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_global/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_family/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_romance/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_comedy/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_action/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_thriller/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_drama/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_movies_horror/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/feel_good/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/teva_channel/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/comedy_2_channel/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_comedy/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_drama/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_lifestyle/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_food/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_doco/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/dancing_popup/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/imagin_cooking/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/beautyz/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/savri/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/erez_nehederet/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_channel/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/ch9/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/makkan/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/i24_fr/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/i24_en/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/baby/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/daystar/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/hop_pele/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/edu23/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kneset/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",HALA TV
 https://stream.panet.com/edge/halaTV/chunks.m3u8
 #EXTINF:0 group-title="IL",KAN 11
