@@ -566,8 +566,8 @@ https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
 https://primaset.servizistreaming.it/hls/streamingcanale3.m3u8
 #EXTINF:0 group-title="Napoli",Bella Radio TV
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
-#EXTINF:0 group-title="Napoli",Telecolore
-https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Floridia TV
+https://stream1.wired-shop.com/live_basic/floridiatv.m3u8
 #EXTINF:0 group-title="Napoli",Set TV
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:0 group-title="Napoli",Lira TV
