@@ -486,8 +486,8 @@ https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
 https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
 #EXTINF:0 group-title="Napoli",Telefutura
 https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
-#EXTINF:0 group-title="Napoli",Radio Tutto Napoli
-https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8
+#EXTINF:0 group-title="Napoli",Tele 90 Sicilia
+https://5db313b643fd8.streamlock.net/tele90/tele90/playlist.m3u8
 #EXTINF:0 group-title="Napoli",VR 14
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 #EXTINF:0 group-title="Napoli",TGS Sicilia
